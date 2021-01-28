@@ -8,10 +8,12 @@
 **Link to work:** I did this a couple of days ago :  https://codepen.io/JerseyGirlMogul/pen/jOMJxOz
 
 **Day 1**: January 26, 2021
-**Today's Progress**: Reviewed some JS.  Also a little HTML.  
+**Today's Progress**: Reviewed some JS.  Also a little HTML. 
+
 **Thoughts**:  I really love development and I'm happy I am able to explore this path.
 
 **Day 2**: January 27, 20201
-**Today's Progress**:  Review HTML forms and some JS.  Feel like I have a good handle on my studies;
+**Today's Progress**:  Review HTML forms and some JS.  Feel like I have a good handle on my studies.
+
 **Thoughts**: Wish I was further along in JS.
 
