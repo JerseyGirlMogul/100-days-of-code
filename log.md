@@ -8,7 +8,7 @@
 **Link to work:** I did this a couple of days ago :  https://codepen.io/JerseyGirlMogul/pen/jOMJxOz
 
 **Day 1**: January 26, 2021
-**Today's Progress**: Reviewed some JS.  Also a little HTML. 
+###**Today's Progress**: Reviewed some JS.  Also a little HTML. 
 
 **Thoughts**:  I really love development and I'm happy I am able to explore this path.
 
